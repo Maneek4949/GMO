@@ -20,7 +20,9 @@ const SecondPage = () => {
       <p>Name: {name}</p>
       <p>Phone number: {phone}</p>
       <p>Email: {email}</p>
+      <h2>Task 3 </h2>
       <Component1 />
+      <h2>Task 4</h2>
       <Component2/>
 
     </div>

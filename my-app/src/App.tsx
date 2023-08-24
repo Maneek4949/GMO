@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route,Routes } from 'react-router-dom';
 import Form from './components/FirstPage';
 import SecondPage from './components/SecondPage';
+import "./App.css"
 
 
 const App = () => {
